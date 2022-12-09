@@ -1,11 +1,13 @@
 #include<stdio.h>
 /*
- * puts prints a new line
- * int main is the main method 
- * return(0) returns an integer 
+ *puts prints a newline
+ * return (0)
  */
 int main(void)
 {
+	/*
+	 *funtion main
+	 */
 	puts("\"Programming is like building a multilingual puzzle");
-		return(0);
+		return (0);
 }
