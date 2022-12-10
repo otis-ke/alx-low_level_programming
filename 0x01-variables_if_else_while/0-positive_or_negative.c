@@ -1,14 +1,16 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-
 /**
- * main -entry point
+ * main - Entry point
  *
- * return: 0
+ * Description: main
+ *
+ * return: 0 (Succes)
  */
 int main(void)
 {
+	
 	int n;
 
 	srand(time(0));
@@ -20,4 +22,5 @@ int main(void)
 	else
 		printf("%d is zero\n", n);
 	return (0);
+
 }
