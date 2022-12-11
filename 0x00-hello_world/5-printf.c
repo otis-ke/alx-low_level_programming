@@ -1,12 +1,12 @@
 #include <stdio.h>
-
 /**
- * main entry
- * printf output
- * return 0
+ * main - Entry point
  *
-*/
-
+ * Description: 'Two number combinations'
+ *
+ * Return: 0(Success)
+ *
+ */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
