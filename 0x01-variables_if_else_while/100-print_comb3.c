@@ -16,6 +16,7 @@ int main(void)
 		for (i = a + 1; i <= 57; i++)
 		{
 			putchar(a);
+			putchar(i);
 			if (a != 56)
 			{
 				putchar(44);
