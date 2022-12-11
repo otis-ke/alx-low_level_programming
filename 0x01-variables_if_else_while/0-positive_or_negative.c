@@ -1,13 +1,12 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-
 /**
- * main - Determines if a number is positive or negative or zero
+ * main - Entry point
  *
- * Description: main
+ * Description: 'Two number combinations'
  *
- * return: 0 (Success)
+ * Return: 0(Success)
  */
 int main(void)
 {
@@ -17,7 +16,7 @@ int main(void)
 	n = rand - RAND_MAX / 2;
 	if (n > 0)
 	{
-		printf(" %d is positive\n", n);
+		printf("%d is positive\n", n);
 	}
 	else if (n == 0)
 	{
