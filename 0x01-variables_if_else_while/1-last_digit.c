@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - betty wewe
+ * main - Entry point
  *
- * return: 0 (succesful)
+ * Description: 'Two number combinations'
  *
- * Description: umbwa
+ * Return: 0(Success)
  */
 int main(void)
 {
