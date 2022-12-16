@@ -1,7 +1,8 @@
 #include "main.h"
 /**
- * print_most_numbers - prints
+ * more_numbers - nmbr fct
  * owned by otis
+ * Return: no return
  */
 void more_numbers(void)
 {
