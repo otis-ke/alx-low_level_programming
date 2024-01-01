@@ -3,5 +3,4 @@ nbmhnmhnm
 bbbb
 nbnbn
 nnnnn
-nnnb
-nbnb
+n
