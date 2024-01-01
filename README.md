@@ -6,3 +6,4 @@ nnnnn
 nnnb
 nbnbn bcnnbn
 nbnbnbnnbnbn
+nnbcn bn 
