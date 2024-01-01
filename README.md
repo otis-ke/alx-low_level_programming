@@ -4,7 +4,4 @@ bbbb
 nbnbn
 nnnnn
 nnnb
-nbnbn bcnnbn
-nbnbnbnnbnbn
-nnbcn bn 
-vbfdb
+nbnb
